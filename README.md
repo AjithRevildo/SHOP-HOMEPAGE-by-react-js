@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/82adae18-e8b9-4589-95cc-807495c21964/deploy-status)](https://app.netlify.com/sites/suspicious-lalande-54a232/deploys)
-
 # shop-homepage-react
 
 # Getting Started with Create React App
